@@ -1,0 +1,7 @@
+{
+  "name": "Shakti Bridge",
+  "description": "A multilingual, AI-powered managed marketplace empowering rural and tribal women artisans to sell their handmade crafts globally.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
